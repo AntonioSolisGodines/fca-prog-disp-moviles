@@ -26,7 +26,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         //Para cambiar el texto de tv
-        tv.setText("Hola mundo");
+        //tv.setText("Pascual Antonio Solis Godines");
+        tv.setText(R.string.ctaAlumno);
 
         //Actividades
         //a) Modifica el texto "Hola mundo", pon tu nombre y ejecuta la aplicacion
